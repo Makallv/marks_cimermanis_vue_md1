@@ -42,7 +42,7 @@ export default {
       return `${this.user.name} ${this.user.surname}`;
     },
     logo() {
-      return require("https://i.pinimg.com/280x280_RS/83/de/c4/83dec429f83b4fe382e62e32b76aba09.jpg");
+      return "https://i.pinimg.com/280x280_RS/83/de/c4/83dec429f83b4fe382e62e32b76aba09.jpg";
     },
   },
   methods: {
